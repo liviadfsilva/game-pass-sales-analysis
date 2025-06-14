@@ -21,8 +21,11 @@ Cada uma delas pode ser visualizada de acordo com o tipo de assinatura através 
 - Mensal
 - Trimestral
 
-**Exemplo:**
 <br>
+
+**Exemplo:**
+
+
 Ao clicar em ```Anual```, o dashboard exibirá o valor total de vendas — baseadas em dados — das assinaturas EA Season Pass e Minecraft Season Pass, enquanto o total de vendas das assinaturas do Xbox Game Pass serão exibidas em um gráfico para melhor visualização, contendo o valor total baseado em assinantes com e sem renovação automãtica.
 
 O mesmo acontecerá quando a opção de análise escolhida for referente às assinaturas ```Mensais``` e ```Trimestrais```.
